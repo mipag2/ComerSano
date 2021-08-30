@@ -1,0 +1,42 @@
+.cover {
+    height: 500px;
+    color: darkslategray;
+    background-image: url(file:///C:/Users/usuario/Downloads/rsz_1malusi-msomi-4xtaqmn9lae-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+}
+.cover-small {
+    height: 200px;
+    background-blend-mode: normal;
+}
+.cover-small1 {
+    height: 200px;
+    width: 100%;
+    background-blend-mode: normal;
+}
+.card {
+    border: 0 !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.6), 0 2px 4px -1px rgba(0, 0, 0, 0.6);
+}
+.card-title {
+    min-height: 1rem;
+}
+.card-text {
+    min-height: 1rem;
+    text-align: center;
+}
+.card-text1 {
+    min-height: 1rem;
+}
+.h1 {
+	color: #9ACD32;
+	text-align: center;
+}
+img {
+	width: 100%;
+	height: 100%;
+}
+.h2 {
+	text-align: center;
+}
